@@ -2,7 +2,7 @@ This repository contains a fully-parametric FreeCAD model for 2.54 mm (0.1 in) p
 
 The parametric model can be used to generate 3D models of headers of various pin counts for use with PCB EDA/CAD software.
 
-Ready-to-use pre-exported models in STEP format for a variety of pin counts can be found in the GitHub repository Releases.
+**Ready-to-use pre-exported models in STEP format for a variety of pin counts can be found in the GitHub repository Releases.**
 
 ![Example 10-pin Header](example.png)
 
@@ -18,7 +18,7 @@ Other modifiable parameters are:
 * Pin Thickness
 * Pin Length
 
-All dimensional parameters are specified in millimetres (mm). Also note that some values of certain parameters may not result in a sensible model! For instance, the model has not been tested with a pin itch of anything other than 2.54 mm. Other parameters in the sheet are simply for calculation of other dimensions based on the figures above and should not be modified.
+All dimensional parameters are specified in millimetres (mm). Also note that some values of certain parameters may not result in a sensible model! For instance, the model has not been tested with a pin pitch of anything other than 2.54 mm. Other parameters in the sheet are simply for calculation of other dimensions based on the figures above and should not be modified.
 
 # How to Export in STEP Format
 
